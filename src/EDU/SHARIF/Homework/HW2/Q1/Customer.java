@@ -1,4 +1,4 @@
-package SUT.AP.HW2.Q1;
+package EDU.SHARIF.Homework.HW2.Q1;
 
 import java.util.HashMap;
 

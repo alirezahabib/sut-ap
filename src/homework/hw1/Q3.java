@@ -1,4 +1,4 @@
-package EDU.SHARIF.Homework.HW1;
+package homework.hw1;
 
 import java.util.*;
 

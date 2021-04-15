@@ -1,4 +1,4 @@
-package EDU.SHARIF.Homework.HW1;
+package homework.hw1;
 
 /* I got help from "Ali Razghandi" for (?<= |^) and (?: |$) regex patterns */
 

@@ -1,4 +1,4 @@
-package EDU.SHARIF.Homework.HW2.Q1;
+package homework.hw2.q1;
 
 import java.util.HashMap;
 
